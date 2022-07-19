@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 520px;
+    height: 520px;
+    background-color: bisque;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10%;
+}
+.square{
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.x{
+    color: red;
+    text-align: center;
+    line-height: 37px;
+    font-size: 4.5rem;
+    display: none;
+}
+
+.o{
+    color: blue;
+    text-align: center;
+    line-height: 37px;
+    font-size: 4.5rem;
+}
+
+.appear{
+    display: block;
+}

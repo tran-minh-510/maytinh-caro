@@ -1,0 +1,15 @@
+Ngày 7/14/2022
+
+BÀI TẬP VỀ NHÀ
+
+1. code máy tính bỏ túi có các phép tính: +, -, *, /
+
+Gợi ý: Tìm hiểu thêm hàm eval() để chuyển chuỗi => Phép tính
+
+2. Code 1 bàn cờ caro theo kịch bản như sau:
+
+- ban đầu khi click vào 1 ô sẽ hiển thị chữ x trong ô đó
+- click vào ô khác sẽ hiển thị chữ o
+- nếu click vào ô đã tồn tại thì hiển thị thông báo "Bạn đã chọn ô này"
+
+Lưu ý: không cần kết quả thắng thua, chỉ cần làm theo kịch bản trên
